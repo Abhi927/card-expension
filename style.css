@@ -49,12 +49,12 @@ body {
     
   }
   @media (max-width: 480px) {
-    .container {
+    .divset {
       width: 100vw;
     }
   
-    .panel:nth-of-type(4),
-    .panel:nth-of-type(5) {
+    .div-set:nth-of-type(4),
+    .div-set:nth-of-type(5) {
       display: none;
     }
   }
